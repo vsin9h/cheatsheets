@@ -1,5 +1,5 @@
 # cheatsheets
-  ![STARS](https://img.shields.io/github/stars/singhvijayp/cheatsheets?style=social)  ![FORKS](https://img.shields.io/github/forks/singhvijayp/cheatsheets?style=social) ![COMMIT](https://img.shields.io/github/last-commit/singhvijayp/cheatsheets) ![SIZE](https://img.shields.io/github/repo-size/singhvijayp/cheatsheets)
+  ![STARS](https://img.shields.io/github/stars/vsin9h/cheatsheets?style=social)  ![FORKS](https://img.shields.io/github/forks/vsin9h/cheatsheets?style=social) ![COMMIT](https://img.shields.io/github/last-commit/vsin9h/cheatsheets) ![SIZE](https://img.shields.io/github/repo-size/vsin9h/cheatsheets)
 This is a useful cheat sheet that can help you out with `git` commands, `vscode` commands `Command Line` commands `XCode` and so forth.
 Feel free to use it as reference. 
   
